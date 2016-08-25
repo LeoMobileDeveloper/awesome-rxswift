@@ -24,6 +24,11 @@ An "awesome" type curated list of RXSwift library and learning material
 - [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ObjectMapper bindings for Moya and RxSwift
 - [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) Additional operators not found in the core RxSwift distribution
 - [RxPermission](https://github.com/sunshinejr/RxPermission) RxSwift bindings for Permissions API in iOS.
+- [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) A GitHubAPI base on Stream by RxSwift
+- [FirebaseRxSwiftExtensions](https://github.com/RxSwiftCommunity/FirebaseRxSwiftExtensions) Extension Methods for Firebase and RxSwift
+- [ObservableArray-RxSwift](https://github.com/safx/ObservableArray-RxSwift) An array that can emit messages of elements and diffs on it's changing.
+
+
 
 
 
@@ -32,6 +37,10 @@ An "awesome" type curated list of RXSwift library and learning material
 - [RxTodo](https://github.com/devxoul/RxTodo) iOS Todo Application with RxSwift + MVVM
 - [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) Examples and resources for RxSwift.
 - [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) A space to doodle as I learn RxSwift
+- [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample)
+- [ReallySimpleMVVMLoginExampleWithRxSwift](https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift)
+- [RxChat](https://github.com/bontoJR/RxChat) Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js
+
 
 
 
@@ -42,6 +51,7 @@ An "awesome" type curated list of RXSwift library and learning material
 
 ## Chinese Materials
 - [RxSwift-CN](https://github.com/jhw-dev/RxSwift-CN) RxSwift Documentation in Chinese
+-  [RxSwift使用教程](http://blog.csdn.net/hello_hwc/article/details/51859330)
  
 
 
