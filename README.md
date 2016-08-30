@@ -48,6 +48,7 @@ An "awesome" type curated list of RXSwift library and learning material
 
 - [The-introduction-to-RxSwift-you-have-been-missing](https://github.com/DTVD/The-introduction-to-RxSwift-you-have-been-missing)
 - [Implementing MVVM in iOS with RxSwift](https://medium.cobeisfresh.com/implementing-mvvm-in-ios-with-rxswift-458a2d47c33d#.3i0ir1gdh)
+- [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift)
 
 ## Chinese Materials
 - [RxSwift-CN](https://github.com/jhw-dev/RxSwift-CN) RxSwift Documentation in Chinese
