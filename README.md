@@ -40,6 +40,8 @@ An "awesome" type curated list of RXSwift library and learning material
 - [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample)
 - [ReallySimpleMVVMLoginExampleWithRxSwift](https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift)
 - [RxChat](https://github.com/bontoJR/RxChat) Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js
+- [RxSwiftPlayer](https://github.com/scotteg/RxSwiftPlayer) A demo project to explores RxSwift and RxCocoa
+
 
 
 
