@@ -27,8 +27,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [RxGitHubAPI](https://github.com/FengDeng/RxGitHubAPI) A GitHubAPI base on Stream by RxSwift
 - [FirebaseRxSwiftExtensions](https://github.com/RxSwiftCommunity/FirebaseRxSwiftExtensions) Extension Methods for Firebase and RxSwift
 - [ObservableArray-RxSwift](https://github.com/safx/ObservableArray-RxSwift) An array that can emit messages of elements and diffs on it's changing.
-
-
+- [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) Reactive Keyboard in iOS
 
 
 
