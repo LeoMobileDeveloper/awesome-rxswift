@@ -28,6 +28,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [FirebaseRxSwiftExtensions](https://github.com/RxSwiftCommunity/FirebaseRxSwiftExtensions) Extension Methods for Firebase and RxSwift
 - [ObservableArray-RxSwift](https://github.com/safx/ObservableArray-RxSwift) An array that can emit messages of elements and diffs on it's changing.
 - [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) Reactive Keyboard in iOS
+- [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) Nimble extensions that making unit testing with RxSwift easier 
 
 
 
