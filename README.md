@@ -58,11 +58,12 @@ An "awesome" type curated list of RXSwift library and learning material
 
 ## Chinese Materials
 - [RxSwift-CN](https://github.com/jhw-dev/RxSwift-CN) RxSwift Documentation in Chinese
--  [RxSwift使用教程](http://blog.csdn.net/hello_hwc/article/details/51859330)
+- [RxSwift使用教程](http://blog.csdn.net/hello_hwc/article/details/51859330)
 * [RxSwift 学习指导](https://github.com/DianQK/LearnRxSwift)（[DianQK](https://github.com/DianQK)）
 * [Swift 的响应式编程革命](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112245&idx=1&sn=6536b90c09651380ec2009eb46ed9281#rd)（来源：[@移动开发前线](http://weibo.com/u/5861126740)）
 * [RxSwift 函数响应式编程](https://realm.io/cn/news/slug-max-alexander-functional-reactive-rxswift/)（来源：Realm）
 * [函数式编程框架：ReactiveCocoa,RXSwift速查表](https://github.com/aiqiuqiu/FRPCheatSheeta)
 * [如何写出最简洁优雅的网络封装 Moya + RxSwift](http://www.jianshu.com/p/c1494681400b) （来源：简书作者：[@最Fly的Engine人](http://www.jianshu.com/p/c1494681400b)）
+* [响应式编程：ReactiveCocoa vs RxSwift](http://www.cocoachina.com/ios/20160124/15099.html)
 
 
