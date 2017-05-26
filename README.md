@@ -8,7 +8,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [Libraries](#libraries)
 - [Open Source Apps](#open-source-apps)
 - [Tutorials](#tutorials)
-- [Chinese Materials](#Chinese Materials)
+- [Chinese Materials](#ChineseMaterials)
 
 ## Libraries
 
@@ -31,8 +31,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) Nimble extensions that making unit testing with RxSwift easier 
 - [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) The perfect combination: Clean Swift + ReSwift + PromiseKit
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift
-
-
+- [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) RxSwift extension for RealmSwift's types
 
 
 ## Open-Source-Apps
@@ -56,7 +55,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift)
 - [RxSwift by Examples #1 – The basics.](http://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/)
 
-## Chinese Materials
+## ChineseMaterials
 - [RxSwift-CN](https://github.com/jhw-dev/RxSwift-CN) RxSwift Documentation in Chinese
 - [RxSwift使用教程](http://blog.csdn.net/hello_hwc/article/details/51859330)
 * [RxSwift 学习指导](https://github.com/DianQK/LearnRxSwift)（[DianQK](https://github.com/DianQK)）
