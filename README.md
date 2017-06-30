@@ -21,6 +21,7 @@ An "awesome" type curated list of RXSwift library and learning material
 - [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) RxSwift extensions for Swift optionals and "Occupiable" types
 - [NSObject-Rx](https://github.com/RxSwiftCommunity/NSObject-Rx) Handy RxSwift extensions on NSObject, including rx_disposeBag.
 - [RxAutomaton](https://github.com/inamiy/RxAutomaton) RxSwift + State Machine, inspired by Redux and Elm.
+- [Moya](https://github.com/Moya/Moya) Network abstraction layer written in Swift.
 - [Moya-ObjectMapper](https://github.com/ivanbruel/Moya-ObjectMapper) ObjectMapper bindings for Moya and RxSwift
 - [RxSwiftExt](https://github.com/RxSwiftCommunity/RxSwiftExt) Additional operators not found in the core RxSwift distribution
 - [RxPermission](https://github.com/sunshinejr/RxPermission) RxSwift bindings for Permissions API in iOS.
@@ -62,7 +63,8 @@ An "awesome" type curated list of RXSwift library and learning material
 * [Swift 的响应式编程革命](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=2651112245&idx=1&sn=6536b90c09651380ec2009eb46ed9281#rd)（来源：[@移动开发前线](http://weibo.com/u/5861126740)）
 * [RxSwift 函数响应式编程](https://realm.io/cn/news/slug-max-alexander-functional-reactive-rxswift/)（来源：Realm）
 * [函数式编程框架：ReactiveCocoa,RXSwift速查表](https://github.com/aiqiuqiu/FRPCheatSheeta)
-* [如何写出最简洁优雅的网络封装 Moya + RxSwift](http://www.jianshu.com/p/c1494681400b) （来源：简书作者：[@最Fly的Engine人](http://www.jianshu.com/p/c1494681400b)）
+* [如何写出最简洁优雅的网络封装 
++ RxSwift](http://www.jianshu.com/p/c1494681400b) （来源：简书作者：[@最Fly的Engine人](http://www.jianshu.com/p/c1494681400b)）
 * [响应式编程：ReactiveCocoa vs RxSwift](http://www.cocoachina.com/ios/20160124/15099.html)
 
 
