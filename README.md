@@ -10,7 +10,7 @@
 
 ## Open-Source-Apps
 
-- [eidolon](https://github.com/artsy/eidolon)
+- [eidolon](https://github.com/artsy/eidolon) The Artsy Auction Kiosk App
 - [RxTodo](https://github.com/devxoul/RxTodo) iOS Todo Application with RxSwift + MVVM
 - [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) Examples and resources for RxSwift.
 - [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) A space to doodle as I learn RxSwift
