@@ -48,6 +48,7 @@
 - [RxViewController](https://github.com/devxoul/RxViewController) RxSwift wrapper for UIViewController and NSViewController
 - [RxTask](https://github.com/RxSwiftCommunity/RxTask) An RxSwift implementation of a command line runner.
 - [RxIGListKit](https://github.com/yuzushioh/RxIGListKit) IGListKit with RxSwift🚀
+- [RxAppState](https://github.com/pixeldock/RxAppState) RxSwift extensions for UIApplicationDelegate methods to observe changes in your app's state
 
 ## Tutorials
 
