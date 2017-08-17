@@ -59,5 +59,5 @@
 - [Getting Started With RxSwift and RxCocoa - Ray Wenderlich](https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa)
 - [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
 - [Functional Reactive Programming with RxSwift](https://news.realm.io/news/slug-max-alexander-functional-reactive-rxswift/)
-
+- [Introducing RxSwift: Reactive Programming with Swift! - Ray Wenderlich](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift)
 
