@@ -19,6 +19,7 @@
 - [RxChat](https://github.com/bontoJR/RxChat) Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js
 - [RxSwiftPlayer](https://github.com/scotteg/RxSwiftPlayer) A demo project to explores RxSwift and RxCocoa
 - [passcode](https://github.com/cruisediary/Passcode) 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
+- [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample) A sample project uses Flux and MVVM features with RxSwift.
 
 ## Libraries
 
