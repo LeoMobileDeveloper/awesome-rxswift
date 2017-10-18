@@ -58,6 +58,7 @@
 - [ReactiveCocoa vs RxSwift](https://www.raywenderlich.com/126522/reactivecocoa-vs-rxswift)
 - [RxSwift by Examples #1 – The basics.](http://www.thedroidsonroids.com/blog/ios/rxswift-by-examples-1-the-basics/)
 - [Getting Started With RxSwift and RxCocoa - Ray Wenderlich](https://www.raywenderlich.com/138547/getting-started-with-rxswift-and-rxcocoa)
+- [RxSwift: Transforming Operators - Ray Wenderlich](https://www.raywenderlich.com/158205/rxswift-transforming-operators)
 - [Learn & Master ⚔️ the Basics of RxSwift in 10 Minutes](https://medium.com/ios-os-x-development/learn-and-master-%EF%B8%8F-the-basics-of-rxswift-in-10-minutes-818ea6e0a05b)
 - [Functional Reactive Programming with RxSwift](https://news.realm.io/news/slug-max-alexander-functional-reactive-rxswift/)
 - [Introducing RxSwift: Reactive Programming with Swift! - Ray Wenderlich](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift)
