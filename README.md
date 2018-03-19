@@ -41,6 +41,7 @@
 - [FirebaseRxSwiftExtensions](https://github.com/RxSwiftCommunity/FirebaseRxSwiftExtensions) Extension Methods for Firebase and RxSwift
 - [ObservableArray-RxSwift](https://github.com/safx/ObservableArray-RxSwift) An array that can emit messages of elements and diffs on it's changing.
 - [RxKeyboard](https://github.com/RxSwiftCommunity/RxKeyboard) Reactive Keyboard in iOS
+- [RxCoreLocation](https://github.com/RxSwiftCommunity/RxCoreLocation) RxCoreLocation is a reactive abstraction to manage Core Location.
 - [RxNimble](https://github.com/RxSwiftCommunity/RxNimble) Nimble extensions that making unit testing with RxSwift easier 
 - [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) The perfect combination: Clean Swift + ReSwift + PromiseKit
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift
