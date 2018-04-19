@@ -7,6 +7,7 @@
 - [Open Source Apps](#open-source-apps)
 - [Libraries](#libraries)
 - [Tutorials](#tutorials)
+- [Communities](#communities)
 
 ## Open-Source-Apps
 
@@ -14,13 +15,14 @@
 - [RxTodo](https://github.com/devxoul/RxTodo) iOS Todo Application with RxSwift + MVVM
 - [RxSwiftExamples](https://github.com/DroidsOnRoids/RxSwiftExamples) Examples and resources for RxSwift.
 - [LearningRxSwift](https://github.com/pepaslabs/LearningRxSwift) A space to doodle as I learn RxSwift
-- [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample)
-- [ReallySimpleMVVMLoginExampleWithRxSwift](https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift)
+- [ReactiveWeatherExample](https://github.com/marinbenc/ReactiveWeatherExample) A simple iOS weather app using the MVVM pattern and RxSwift framework
+- [ReallySimpleMVVMLoginExampleWithRxSwift](https://github.com/carlosypunto/ReallySimpleMVVMLoginExampleWithRxSwift) Simulation of log in process with RxSwift
 - [RxChat](https://github.com/bontoJR/RxChat) Sample using Rx for a chat app, using Node.js, Socket.io, RxSwift and Rx.js
 - [RxSwiftPlayer](https://github.com/scotteg/RxSwiftPlayer) A demo project to explores RxSwift and RxCocoa
-- [passcode](https://github.com/cruisediary/Passcode) 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
+- [Passcode](https://github.com/cruisediary/Passcode) 🔑 Passcode for iOS Rxswift, ReactorKit and IGListKit example
 - [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample) A sample project uses Flux and MVVM features with RxSwift.
 - [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) 💨100 days and 40 project of RxSwift
+- [RxGithub](https://github.com/oronbz/RxGithub) An example of MVVM using RxSwift and Swinject (DI)
 
 ## Libraries
 
@@ -70,3 +72,7 @@
 - [Functional Reactive Programming with RxSwift](https://news.realm.io/news/slug-max-alexander-functional-reactive-rxswift/)
 - [Introducing RxSwift: Reactive Programming with Swift! - Ray Wenderlich](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift)
 - [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) RxSwift Chinese Documentation
+
+## Communities
+- [RxSwift Community](https://github.com/RxSwiftCommunity) RxSwift ecosystem projects
+
