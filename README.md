@@ -58,6 +58,8 @@
 - [RxFlow](https://github.com/RxSwiftCommunity/RxFlow) RxFlow is a navigation framework for iOS applications based on a Reactive Flow Coordinator pattern
 - [Reactant](https://github.com/Brightify/Reactant) Reactant is a reactive architecture for iOS https://www.reactant.tech
 - [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) RxSwift extensions for Core Data
+- [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) RxSwift extensions for Swift optionals and "Occupiable" types
+
 
 ## Tutorials
 
