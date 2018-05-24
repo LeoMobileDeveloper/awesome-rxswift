@@ -59,7 +59,7 @@
 - [Reactant](https://github.com/Brightify/Reactant) Reactant is a reactive architecture for iOS https://www.reactant.tech
 - [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) RxSwift extensions for Core Data
 - [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) RxSwift extensions for Swift optionals and "Occupiable" types
-
+- [RxSpriteKit](https://github.com/giginet/RxSpriteKit) Reactive Extensions for SpriteKit 👾
 
 ## Tutorials
 
