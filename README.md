@@ -60,6 +60,8 @@
 - [RxCoreData](https://github.com/RxSwiftCommunity/RxCoreData) RxSwift extensions for Core Data
 - [RxOptional](https://github.com/RxSwiftCommunity/RxOptional) RxSwift extensions for Swift optionals and "Occupiable" types
 - [RxSpriteKit](https://github.com/giginet/RxSpriteKit) Reactive Extensions for SpriteKit 👾
+- [RxGRDB](https://github.com/RxSwiftCommunity/RxGRDB) Reactive extensions for SQLite
+
 
 ## Tutorials
 
