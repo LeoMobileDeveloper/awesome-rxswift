@@ -23,6 +23,7 @@
 - [QiitaWithFluxSample](https://github.com/marty-suzuki/QiitaWithFluxSample) A sample project uses Flux and MVVM features with RxSwift.
 - [100-days-of-RxSwift](https://github.com/Edison-Hsu/100-days-of-RxSwift) 💨100 days and 40 project of RxSwift
 - [RxGithub](https://github.com/oronbz/RxGithub) An example of MVVM using RxSwift and Swinject (DI)
+- [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ZhiHu Daily with RxSwift
 
 ## Libraries
 
