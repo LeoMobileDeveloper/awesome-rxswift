@@ -65,7 +65,7 @@
 - [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 - [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) Theme management based on Rx
 - [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
-
+- [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) Reactive extension for the Kingfisher image downloading and caching library 
 
 ## Tutorials
 
