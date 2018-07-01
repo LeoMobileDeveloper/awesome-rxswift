@@ -64,6 +64,8 @@
 - [RxGRDB](https://github.com/RxSwiftCommunity/RxGRDB) Reactive extensions for SQLite
 - [RxReduce](https://github.com/RxSwiftCommunity/RxReduce) RxReduce is a lightweight framework that ease the implementation of a state container pattern in a Reactive Programming compliant way.
 - [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) Theme management based on Rx
+- [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
+
 
 ## Tutorials
 
