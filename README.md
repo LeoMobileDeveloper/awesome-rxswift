@@ -66,6 +66,7 @@
 - [RxTheme](https://github.com/RxSwiftCommunity/RxTheme) Theme management based on Rx
 - [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
 - [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) Reactive extension for the Kingfisher image downloading and caching library 
+- [RxGoogleMaps](https://github.com/RxSwiftCommunity/RxGoogleMaps) RxSwift reactive wrapper for GoogleMaps SDK
 
 ## Tutorials
 
