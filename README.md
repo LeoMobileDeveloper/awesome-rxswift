@@ -82,6 +82,8 @@
 - [Introducing RxSwift: Reactive Programming with Swift! - Ray Wenderlich](https://www.raywenderlich.com/158026/introducing-rxswift-reactive-programming-swift)
 - [RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation) RxSwift Chinese Documentation
 - [RxSwift foundation and basic components](https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e) 
+- [Quick short guide to implement RxSwift](https://medium.com/@arnavgupta180/learn-and-start-writing-rxswift-within-few-minutes-119f8f25af68)
+- [RxSwift with MVVM](https://medium.com/@dkhuong291/rxswift-with-mvvm-e4af71413298)
 
 ## Communities
 - [RxSwift Community](https://github.com/RxSwiftCommunity) RxSwift ecosystem projects
