@@ -67,6 +67,7 @@
 - [RxMKMapView](https://github.com/RxSwiftCommunity/RxMKMapView) RxMKMapView is a RxSwift wrapper for MKMapView `delegate`
 - [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) Reactive extension for the Kingfisher image downloading and caching library 
 - [RxGoogleMaps](https://github.com/RxSwiftCommunity/RxGoogleMaps) RxSwift reactive wrapper for GoogleMaps SDK
+- [RxFileMonitor](https://github.com/RxSwiftCommunity/RxFileMonitor) RxSwift wrapper around CoreFoundation file events (FSEvent*) http://cleancocoa.com/
 
 ## Tutorials
 
