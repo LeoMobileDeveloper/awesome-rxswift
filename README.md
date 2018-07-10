@@ -68,6 +68,7 @@
 - [RxKingfisher](https://github.com/RxSwiftCommunity/RxKingfisher) Reactive extension for the Kingfisher image downloading and caching library 
 - [RxGoogleMaps](https://github.com/RxSwiftCommunity/RxGoogleMaps) RxSwift reactive wrapper for GoogleMaps SDK
 - [RxFileMonitor](https://github.com/RxSwiftCommunity/RxFileMonitor) RxSwift wrapper around CoreFoundation file events (FSEvent*) http://cleancocoa.com/
+- [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs).
 
 ## Tutorials
 
