@@ -1,6 +1,6 @@
-# Awesome-RXSwift[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-RxSwift[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36">  An "awesome" type curated list of RXSwift library and learning material
+<img src="https://raw.githubusercontent.com/ReactiveX/RxSwift/master/assets/Rx_Logo_M.png" alt="Miss Electric Eel 2016" width="36" height="36">  An "awesome" type curated list of RxSwift library and learning material
 
 
 # Content
