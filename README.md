@@ -71,7 +71,7 @@
 - [Cycle.swift](https://github.com/BrianSemiglia/Cycle.swift) Cyclical observable for unidirectional architectures inspired by [cycle.js](https://github.com/cyclejs/cyclejs).
 - [RxStoreKit](https://github.com/glassonion1/RxStoreKit) RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
 - [RxASDataSources](https://github.com/RxSwiftCommunity/RxASDataSources) RxDataSource for AsyncDisplayKit/Texture
-
+- [RxCoordinator](https://github.com/quickbirdstudios/RxCoordinator) Reactive navigation library for iOS based on the coordinator pattern
 
 ## Tutorials
 
