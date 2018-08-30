@@ -76,6 +76,7 @@
 - [RxDucks](https://github.com/cats-oss/RxDucks) 🦆 RxDucks is a Redux-like framework working on RxSwift.
 - [RxValidator](https://github.com/vbmania/RxValidator) Easy to Use, Read, Extensible, Flexible Validation Checker
 - [RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) A reactive wrapper built around UIImagePickerController.
+- [RxState](https://github.com/RxSwiftCommunity/RxState) Redux implementation in Swift using RxSwift
 
 ## Tutorials
 
