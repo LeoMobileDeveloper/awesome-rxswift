@@ -98,4 +98,4 @@
 
 ## Communities
 - [RxSwift Community](https://github.com/RxSwiftCommunity) RxSwift ecosystem projects
-
+- [RxSwift Community Projects](http://community.rxswift.org/) Official RxSwift Community Projects
