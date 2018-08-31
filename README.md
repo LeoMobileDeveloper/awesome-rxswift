@@ -77,6 +77,7 @@
 - [RxValidator](https://github.com/vbmania/RxValidator) Easy to Use, Read, Extensible, Flexible Validation Checker
 - [RxMediaPicker](https://github.com/RxSwiftCommunity/RxMediaPicker) A reactive wrapper built around UIImagePickerController.
 - [RxState](https://github.com/RxSwiftCommunity/RxState) Redux implementation in Swift using RxSwift
+- [RxSegue](https://github.com/RxSwiftCommunity/RxSegue) Reactive generic segue, implemented with RxSwift.
 
 ## Tutorials
 
