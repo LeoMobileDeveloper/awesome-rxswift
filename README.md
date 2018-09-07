@@ -82,6 +82,7 @@
 - [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) Helpful classes and extensions for RxSwift
 - [RxPagination](https://github.com/tryswift/RxPagination) The demo project for "Protocol-Oriented Programming in Networking".
 - [RxPager](https://github.com/RxSwiftCommunity/RxPager) Pager for RxSwift
+- [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) RxWebKit is a RxSwift wrapper for WebKit
 
 ## Tutorials
 
