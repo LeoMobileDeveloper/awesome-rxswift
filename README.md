@@ -81,6 +81,7 @@
 - [RxAnimated](https://github.com/RxSwiftCommunity/RxAnimated) Animated RxCocoa bindings
 - [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) Helpful classes and extensions for RxSwift
 - [RxPagination](https://github.com/tryswift/RxPagination) The demo project for "Protocol-Oriented Programming in Networking".
+- [RxPager](https://github.com/RxSwiftCommunity/RxPager) Pager for RxSwift
 
 ## Tutorials
 
