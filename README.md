@@ -86,6 +86,7 @@
 - [RxWebKit](https://github.com/RxSwiftCommunity/RxWebKit) RxWebKit is a RxSwift wrapper for WebKit
 - [RxBiBinding](https://github.com/RxSwiftCommunity/RxBiBinding) Reactive two-way binding
 - [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) A lightweight extension to subscribe Starscream websocket events with RxSwift 
+- [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) RxLocalizer allows you to localize your apps, using RxSwift 🚀
 
 ## Tutorials
 
