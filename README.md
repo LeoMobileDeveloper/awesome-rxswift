@@ -105,6 +105,7 @@
 - [RxSwift foundation and basic components](https://codeburst.io/rxswift-foundation-and-basic-components-36f7db186e3e) 
 - [Quick short guide to implement RxSwift](https://medium.com/@arnavgupta180/learn-and-start-writing-rxswift-within-few-minutes-119f8f25af68)
 - [RxSwift with MVVM](https://medium.com/@dkhuong291/rxswift-with-mvvm-e4af71413298)
+- [Creating an IOS app with MVVM and RxSwift in minutes](https://medium.com/@navdeepsingh_2336/creating-an-ios-app-with-mvvm-and-rxswift-in-minutes-b8800633d2e8)
 
 ## Communities
 - [RxSwift Community](https://github.com/RxSwiftCommunity) RxSwift ecosystem projects
