@@ -25,6 +25,7 @@
 - [RxGithub](https://github.com/oronbz/RxGithub) An example of MVVM using RxSwift and Swinject (DI)
 - [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ZhiHu Daily with RxSwift
 - [Papr](https://github.com/jdisho/Papr) :octocat: An Unsplash app for iOS.
+- [RxXMLY](https://github.com/sessionCh/RxXMLY) XiMaLaYa with RxSwift
 
 ## Libraries
 
