@@ -89,6 +89,7 @@
 - [RxStarscream](https://github.com/RxSwiftCommunity/RxStarscream) A lightweight extension to subscribe Starscream websocket events with RxSwift 
 - [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) RxLocalizer allows you to localize your apps, using RxSwift 🚀
 - [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) An easy way to bind an RxRealm observable to a table or collection view
+- [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) RxCocoa Extension Library for Texture.
 
 ## Tutorials
 
