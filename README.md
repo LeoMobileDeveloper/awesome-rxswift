@@ -90,6 +90,7 @@
 - [RxLocalizer](https://github.com/RxSwiftCommunity/RxLocalizer) RxLocalizer allows you to localize your apps, using RxSwift 🚀
 - [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) An easy way to bind an RxRealm observable to a table or collection view
 - [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) RxCocoa Extension Library for Texture.
+- [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) RxSwift bindings for Reachability
 
 ## Tutorials
 
