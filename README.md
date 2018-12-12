@@ -91,6 +91,7 @@
 - [RxRealmDataSources](https://github.com/RxSwiftCommunity/RxRealmDataSources) An easy way to bind an RxRealm observable to a table or collection view
 - [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) RxCocoa Extension Library for Texture.
 - [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) RxSwift bindings for Reachability
+- [RxCodable](https://github.com/devxoul/RxCodable) RxSwift wrapper for Codable
 
 ## Tutorials
 
