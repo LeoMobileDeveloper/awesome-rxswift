@@ -92,6 +92,7 @@
 - [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) RxCocoa Extension Library for Texture.
 - [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) RxSwift bindings for Reachability
 - [RxCodable](https://github.com/devxoul/RxCodable) RxSwift wrapper for Codable
+- [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) Helpful classes and extensions for RxSwift
 
 ## Tutorials
 
