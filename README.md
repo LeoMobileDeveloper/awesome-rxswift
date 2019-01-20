@@ -51,7 +51,7 @@
 - [iOS-Awesome-Starter-Kit](https://github.com/NghiaTranUIT/iOS-Awesome-Starter-Kit) The perfect combination: Clean Swift + ReSwift + PromiseKit
 - [CleanArchitectureRxSwift](https://github.com/sergdort/CleanArchitectureRxSwift) Example of Clean Architecture of iOS app using RxSwift
 - [RxRealm](https://github.com/RxSwiftCommunity/RxRealm) RxSwift extension for RealmSwift's types
-- [RxFeedback](https://github.com/kzaher/RxFeedback) Architecture for RxSwift
+- [RxFeedback](https://github.com/kzaher/RxFeedback) Feedback loops architecture for RxSwift
 - [RxCoreMotion](https://github.com/RxSwiftCommunity/RxCoreMotion) Provides an easy and straight-forward way to use Apple iOS CoreMotion responses as Rx Observables.
 - [RxViewController](https://github.com/devxoul/RxViewController) RxSwift wrapper for UIViewController and NSViewController
 - [RxTask](https://github.com/RxSwiftCommunity/RxTask) An RxSwift implementation of a command line runner.
