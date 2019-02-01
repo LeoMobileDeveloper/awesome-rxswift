@@ -26,6 +26,7 @@
 - [ZhiHu-RxSwift](https://github.com/kLike/ZhiHu-RxSwift) ZhiHu Daily with RxSwift
 - [Papr](https://github.com/jdisho/Papr) :octocat: An Unsplash app for iOS.
 - [RxXMLY](https://github.com/sessionCh/RxXMLY) XiMaLaYa with RxSwift
+- [SwiftHub](https://github.com/khoren93/SwiftHub) Github iOS client written in RxSwift and MVVM clean architecture
 
 ## Libraries
 
