@@ -27,6 +27,7 @@
 - [Papr](https://github.com/jdisho/Papr) :octocat: An Unsplash app for iOS.
 - [RxXMLY](https://github.com/sessionCh/RxXMLY) XiMaLaYa with RxSwift
 - [SwiftHub](https://github.com/khoren93/SwiftHub) Github iOS client written in RxSwift and MVVM clean architecture
+- [RxStateReducer](https://github.com/vadimtrifonov/RxStateReducer) A pattern of state management with unidirectional data flow and state reducer
 
 ## Libraries
 
