@@ -99,6 +99,7 @@
 - [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) Helpful classes and extensions for RxSwift
 - [RxExpect](https://github.com/devxoul/RxExpect) RxSwift testing framework
 - [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
+- [RxNuke](https://github.com/kean/RxNuke) RxSwift extensions for Nuke
 
 ## Tutorials
 
