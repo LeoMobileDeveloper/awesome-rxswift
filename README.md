@@ -33,6 +33,7 @@
 
 ## Libraries
 
+- [RxCombine](https://github.com/freak4pc/RxCombine) Bi-directional type bridging between RxSwift and Apple's Combine framework
 - [RxAlamofire](https://github.com/RxSwiftCommunity/RxAlamofire) RxSwift wrapper around the elegant HTTP networking in Swift Alamofire
 - [RxBluetoothKit](https://github.com/Polidea/RxBluetoothKit) iOS & OSX Bluetooth library for RxSwift
 - [RxDataSources](https://github.com/RxSwiftCommunity/RxDataSources)Table and Collection View Data Sources for RxSwift
