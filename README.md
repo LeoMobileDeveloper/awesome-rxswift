@@ -97,7 +97,6 @@
 - [RxCocoa-Texture](https://github.com/RxSwiftCommunity/RxCocoa-Texture) RxCocoa Extension Library for Texture.
 - [RxReachability](https://github.com/RxSwiftCommunity/RxReachability) RxSwift bindings for Reachability
 - [RxCodable](https://github.com/devxoul/RxCodable) RxSwift wrapper for Codable
-- [RxSwiftUtilities](https://github.com/RxSwiftCommunity/RxSwiftUtilities) Helpful classes and extensions for RxSwift
 - [RxExpect](https://github.com/devxoul/RxExpect) RxSwift testing framework
 - [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
 - [RxNuke](https://github.com/kean/RxNuke) RxSwift extensions for Nuke
