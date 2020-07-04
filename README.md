@@ -101,6 +101,8 @@
 - [rxswift-notifications](https://github.com/leandromperez/rxswift-notifications) A small group of extensions on top of NSNotification center and RxSwift that allows for strong-typed notifications
 - [RxNuke](https://github.com/kean/RxNuke) RxSwift extensions for Nuke
 - [RxAlert](https://github.com/RxSwiftCommunity/RxAlert) UIAlertController using RxSwift.
+- [RxStoreKit](https://github.com/glassonion1/RxStoreKit) RxStoreKit is lightweight and easy to use Rx support for StoreKit(In-App Purchases).
+
 
 ## Tutorials
 
